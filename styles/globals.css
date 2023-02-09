@@ -1,0 +1,33 @@
+@tailwind base;
+
+body {
+  overflow: hidden;
+  user-select: none;
+  height: 100%;
+}
+
+html, body {
+  overscroll-behavior: none;
+  touch-action: none;
+}
+
+html, #__next {
+  height: 100%;
+}
+
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  button {
+    @apply font-sans;
+    @apply font-medium;
+  }
+}
+
+.small-caps {
+  @apply uppercase;
+  @apply text-xs;
+  @apply tracking-wider;
+  @apply font-bold;
+}

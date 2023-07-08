@@ -14,7 +14,7 @@
     "@liveblocks/react": "^1.0.0",
     "@livekit/react-core": "1.0.3",
     "livekit-client": "^1.6.4",
-    "livekit-server-sdk": "^1.1.0",
+    "livekit-server-sdk": "^1.2.3",
     "@react-hook/resize-observer": "^1.2.6",
     "cookies": "^0.8.0",
     "dayjs": "^1.11.7",

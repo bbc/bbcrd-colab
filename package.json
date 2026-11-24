@@ -20,7 +20,7 @@
     "dayjs": "^1.11.7",
     "framer-motion": "^6.5.1",
     "html-to-image": "^1.11.11",
-    "js-cookie": "^3.0.1",
+    "js-cookie": "^3.0.7",
     "lodash": "^4.17.21",
     "meyda": "^5.5.1",
     "nanoid": "^4.0.1",
